@@ -41,7 +41,7 @@
 
 <p align="center">
   <code>#include &lt;std/disclaimer.h&gt;</code><br>
-  <i>I build things that don't break — and fix things that shouldn't have broken.</i><br>
+  <i>I build things that don't break - and fix things that shouldn't have broken.</i><br>
   <b>And break things that shouldn't have broken.</b>
 </p>
 
