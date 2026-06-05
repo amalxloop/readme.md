@@ -73,7 +73,7 @@ locale: India
 amalxloop@github
 -----------------
 OS     : Linux / OpenBSD
-Uptime : building since 2010
+Uptime : building since 2017
 Shell  : zsh [ble.zsh]
 DE     : custom configs, no bloat
 Repos  : 40
